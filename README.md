@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sushil-esc
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning Web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
