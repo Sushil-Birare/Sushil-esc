@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sushil-esc
+- 👋 Hi, I’m @Sushil
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Web dev
 - 💞️ I’m looking to collaborate on ...
